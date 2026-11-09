@@ -15,4 +15,5 @@ Berikut ini adalah koleksi yang dimiliki:
 11. [Rangkuman UGC Transformasi Digital](ebook/Rangkuman%20UGC%20Transformasi%20Digital.pdf) – Ghina Qayyima Thamrin (2026)
 
 Ghina Qayyima Thamrin  (13040124140109)  C
+
 Powered by GitHub Pages
