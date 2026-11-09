@@ -11,8 +11,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Teori Konsep Litfor](ebook/Teori Konsep Litfor.pdf) - Drs. Tri Septiyantono (2014)
 8. [artikel kualitatif 1](ebook/artikel kualitatif 1.pdf) - Ulul Absor (2018)
 9. [etika profesi TI] (ebook/etika profesi TI.pdf) - Vivi Kumalasari (2021)
-10. [pemanfaatan media sosial UMKN] (ebook/pemanfaatan media sosial UMK.pdf) - Muljanto Silajadja (2023)
-11. [Rangkuman UGC Transformasi Digital](ebook/Rangkuman UGC Transformasi Digital) - Ghina Qayyima Thamrin (2026)
+10. [pemanfaatan media sosial UMKN] (ebook/pemanfaatan media sosial UMKN.pdf) - Muljanto Silajadja (2023)
+11. [Rangkuman UGC Transformasi Digital](ebook/Rangkuman%20UGC%20Transformasi%20Digital) - Ghina Qayyima Thamrin (2026)
 
 Ghina Qayyima Thamrin
 (13040124140109)
