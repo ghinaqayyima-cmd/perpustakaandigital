@@ -8,7 +8,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Pendidikan di Indonesia](ebook/Pendidikan di Indonesia.pdf) - Soni Akhmad Nulhakim (2016)
 5. [Perkembangan_teknologi_informasi_di_Indo](ebook/Perkembangan_teknologi_informasi_di_Indo.pdf) - Wawan Wardiana (2002)
 6. [Sistem Informasi Manajemen](ebook/Sistem Informasi Manajemen.pdf) - Dr. H. Chamdan Purnama (2016)
-7. [Teori Konsep Litfor](ebook/Teori%20Konsep%20litfor.pdf) – Drs. Tri Septiyantono (2014)
+7. [Teori Konsep litfor](ebook/Teori%20Konsep%20litfor.pdf) – Drs. Tri Septiyantono (2014)
 8. [artikel kualitatif 1](ebook/artikel kualitatif 1.pdf) - Ulul Absor (2018)
 9. [etika profesi TI](ebook/etika profesi TI.pdf) - Vivi Kumalasari (2021)
 10. [pemanfaatan media sosial UMKN](ebook/pemanfaatan media sosial UMKN.pdf) - Muljanto Silajadja (2023)
